@@ -16,7 +16,7 @@ export class UsuariosService {
 
     async obtenerUsuario(_id:number): Promise<Usuario[]>{
         return await this.rep.find({
-            select:["id","nombre","apellido"],
+            select:["id","nombre","apellido", "edad", "avatar"],
             where:[
                 {"id":_id}
             ]
