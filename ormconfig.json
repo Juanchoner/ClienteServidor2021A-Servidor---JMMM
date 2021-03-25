@@ -3,8 +3,7 @@
     "host": "ec2-52-7-115-250.compute-1.amazonaws.com",
     "port": "5432",
     "username": "bhgfivbjrppgwe",
-    "password": 
-    "2c9b18c6c8dea395fd7160a015d409c3d7132289a1a6555810ad336ba6fbfe7a",
+    "password": "2c9b18c6c8dea395fd7160a015d409c3d7132289a1a6555810ad336ba6fbfe7a",
     "database": "d6l3q9fgsqbmnr",
     "extra":{
         "ssl":{
